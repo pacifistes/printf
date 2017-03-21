@@ -19,7 +19,7 @@
 # include <stdio.h>
 # include <wchar.h>
 # include <math.h>
-# include "libft.h"
+# include "../../libft/includes/libft.h"
 
 typedef	struct	s_flags
 {
